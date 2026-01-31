@@ -1,0 +1,10 @@
+node_modules/
+dist/
+temp/
+media/
+
+.env
+.DS_Store
+.idea/
+
+*.log
