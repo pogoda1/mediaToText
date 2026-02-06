@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "assemblyai": "^4.8.0",
+    "assemblyai": "4.22.1",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
